@@ -16,3 +16,4 @@ C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering
 C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
 C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
