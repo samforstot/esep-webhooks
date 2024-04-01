@@ -1,0 +1,7 @@
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\samfo\OneDrive\Documents\UF\2024 Spring\Enterprise Software Engineering\Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
